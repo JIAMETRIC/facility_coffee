@@ -1,0 +1,21 @@
+.img-top {
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    width: 100%;
+}
+
+
+p {
+    font-size: var(--regularFont);
+    font-weight: 100 !important;
+    font-family: var(--ffPrimary);
+    color: var(--secondaryColor);
+}
+
+.col- {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+

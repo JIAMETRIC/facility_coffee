@@ -1,0 +1,51 @@
+.grey1{
+    background-color: #eff2f7;
+}
+
+.white{
+    background-color: #ffffff;
+}
+
+.black{
+    background-color: #000000;
+}
+
+.green{
+    background-color: #13c6bd;
+}
+
+.yellow{
+    background-color: #ffbf00;
+}
+
+.pink{
+    background-color: #fe6098;
+}
+
+.lime{
+    background-color: #89f357;
+}
+
+.blue{
+    background-color: #03d9ff;
+}
+
+.purple{
+    background-color: #a99cf4;
+}
+
+.purblue{
+   background-color: #0f1b68;  
+}
+
+.card img {
+    background-color:#0f1b68;
+  }
+
+  .row{
+    background-color: #b5f499;
+  }
+
+  .col-12{
+    background-color: #ff00aa;
+  }

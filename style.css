@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+
+body {
+    background-color: #eff2f7;
+    font-family: "Nunito Sans", serif;
+    /* font-family: "Merienda", serif; */
+}
+
+:root {
+    --primaryColor: #be9c79;
+    --secondaryColor: #666666;
+    --darkColor: #333333;
+    --lightColor: #ffffff;
+    --regularFont: 1rem;
+    --headingFont: 2.5rem;
+    --ffPrimary: "Nunito Sans", serif;
+    --ffSecondary: "Merienda", serif;
+}
+
+.heading img {
+    height: 40px;
+}
+
+.heading h2 {
+    font-family: var(--ffSecondary);
+    font-size: var(--headingFont);
+    font-weight: 800 !important;
+}
+
+.card img {
+    width: 6rem !important;
+    aspect-ratio: 1 / 1 !important;
+}
+
+p {
+    font-weight: 100 !important;
+    color: var(--secondaryColor);
+}
+
+.btn {
+    background-color: var(--primaryColor);
+    font-family: var(--ffPrimary);
+    font-size: 1.125rem;
+    color: var(--lightColor);
+}
+
+.border-2 {
+    border-width: 2px !important;
+}
+
+
+/* ::::: RESPONSIVE DESIGN DEVICE SIZES ::::: */
+
+/* Small devices (landscape phones, upto 576px and below) */
+/* @media (width <=576px) */
+@media (max-width: 576px) {
+
+  
+}
+
+/* Medium devices (tablets, upto 768px and above) */
+/* @media (min-width: 577px) and (max-width: 768px) */
+@media (width >=577px) and (width <=768px) {
+
+
+}
+
+
+/* Large devices (Laptops, upto 992px and above) */
+/* @media (min-width: 769px) and (max-width: 992px) */
+@media (width >=769px) and (width <=992px) {
+
+}
+
+
+/* X-Large devices (large desktops, upto 1200px and above) */
+/* @media (min-width: 993px) and (max-width: 1200px) */
+@media (width >=993px) and (width <=1200px) {
+   
+}
+
+
+/* XX-Large devices (larger desktops, upto 1400px and above) */
+/* @media (min-width: 1200px)  */
+@media (width >=1200px) {
+    /* write code here */
+}
